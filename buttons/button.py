@@ -37,7 +37,7 @@ def back():
 
 
 def regions():
-    kb = InlineKeyboardMarkup(row_width=2)
+    kb = InlineKeyboardMarkup(row_width=1)
     for region in MS.get("regions"):
         kb.insert(
             InlineKeyboardButton(f"{region.title()}", callback_data=f"region_{region}")

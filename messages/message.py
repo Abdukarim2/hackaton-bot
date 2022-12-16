@@ -8,11 +8,7 @@ MESSAGES = {
         "Siz hali royhatdan o’tmagansiz ro'yhatdan o'tish uchun <b>Ro'yhatdan o'tish</b> tugmasini bosing!"
     ],
     'regions': [
-        "andijon","fargona","namangan",
-        "toshkent","samarqand","buxoro",
-        "xorazm", "surxondaryo", "qashqadaryo",
-        "sirdaryo", "jizzax", "navoiy",
-        "qoraqalpogʻiston respublikasi"
+        "andijon", "fargona", "namangan"
     ],
     'menu': [
         "✅ Asosiy qoidalar", "🧑‍💻 Kimlar uchun",
